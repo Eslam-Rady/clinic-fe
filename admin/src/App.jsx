@@ -10,7 +10,8 @@ import Navbar from './components/Navbar';
 import Sidebar from './components/Sidebar';
 import SidebarDoctor from './components/SidebarDoctor';
 
-import Login from './pages/login';
+import Login from './pages/Login';
+
 import Dashboard from './pages/Admin/Dashboard';
 import Departments from './pages/Admin/Departments';
 import AddDoctor from './pages/Admin/AddDoctor';
