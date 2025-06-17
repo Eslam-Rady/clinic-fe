@@ -1,3 +1,3 @@
 .vite
-*node_modules
-*.env
+newbackend/node_modules
+newbackend/.env
